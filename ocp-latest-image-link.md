@@ -1,2 +1,0 @@
-## OpenShift Container Platform lifecycle Overview
-<!-- OCP Release lifecycles: [ocp-product-lifecycle-diagram](https://raw.githubusercontent.com/dwillia-rh/kab-tam-cadence-layout/refs/heads/main/ocp-latest-image.png) -->
