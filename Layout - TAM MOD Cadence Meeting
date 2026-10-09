@@ -30,7 +30,7 @@
 #[include:https://kab-static.apps.int.spoke.prod.us-east-1.aws.paas.redhat.com/lifecycle/lifecycle-OpenShift_Container_Platform_4.md]
 #[include:https://kab-static.apps.int.spoke.prod.us-east-1.aws.paas.redhat.com/lifecycle/lifecycle-Red_Hat_OpenShift_Service_on_AWS.md]
 #[include:https://raw.githubusercontent.com/dwillia-rh/kab-tam-cadence-layout/mod/ocp-latest-image-link.md]
-[snippet:ocp-lifecycle-snippet]
+[snippet:ocp-lifecycle-mod]
 [include:https://kab-static.apps.int.spoke.prod.us-east-1.aws.paas.redhat.com/lifecycle/lifecycle-Red_Hat_OpenShift_Container_Platform.md]
 [snippet:ocp-z-stream-releases-mod]
 [include:https://kab-static.apps.int.spoke.prod.us-east-1.aws.paas.redhat.com/lifecycle/lifecycle-Red_Hat_OpenShift_Data_Foundation.md]
