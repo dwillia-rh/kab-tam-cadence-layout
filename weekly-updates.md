@@ -2,7 +2,7 @@
 - None currently
 
 #### TAM availability 
-- David and Andy will be available throughout October 2026
+- David and Andy will be available throughout October and November 2026
 
 #### What's new in Red Hat Openshift
 -  Red Hat Openshift 4.22
