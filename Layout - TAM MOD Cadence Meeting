@@ -5,7 +5,6 @@
 [include:https://raw.githubusercontent.com/dwillia-rh/kab-tam-cadence-layout/mod/ocp-latest.md]
 [header3:TAM Updates]
 [include:https://raw.githubusercontent.com/dwillia-rh/kab-tam-cadence-layout/mod/weekly-updates.md]
-[include:https://github.com/dwillia-rh/kab-tam-cadence-layout/blob/mod/ocp-latest-image.png?raw=true]
 [header2:Status of Current Issues]
 [report:In Progress,Needs New Owner,New]
 [header3:In Progress]
