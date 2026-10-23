@@ -3,7 +3,7 @@
 - TAMs have been assisting with addressing the client's Security Team list of vulnerabilities detected within images for 4.20.22 by identifying mitigation steps and false positives. 
 
 #### TAM availability 
-- David Williams is the current TAM for Mastercard and will be available throughout most of October and November 2026
+- David Williams is the TAM for Mastercard and will be available throughout October and most of November 2026
 
 #### What's new in Red Hat Openshift
 -  Red Hat Openshift 4.22
