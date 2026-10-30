@@ -1,5 +1,6 @@
 #### Proactive Notifications
-- None currently
+- An initiative is being undertaken to look at the Must Gather Workstream situation and indeed any situation regarding transferring information (logs, Must-Gathers, etc) to RH Support
+- We need to have a TAM Day whereby we can address that works tream and other issues of interests around a whiteboard.
 
 #### TAM availability 
 - David and Andy will be available throughout October and November 2026
