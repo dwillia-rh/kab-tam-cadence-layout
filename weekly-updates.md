@@ -1,9 +1,10 @@
 #### Proactive Notifications
-- An initiative is being undertaken to look at the Must Gather Workstream situation and indeed any situation regarding transferring information (logs, Must-Gathers, etc) to RH Support
-- We need to have a TAM Day whereby we can address that works tream and other issues of interests around a whiteboard.  Potential dates include:  1st Dec, 2nd Dec, (Tue, Wed) 15th 16th 17th Dec (Tue, Wed, Thur) or 22nd 23rd Dec (Tue, Wed)
+- An initiative is being undertaken to look at the workstream where data is exchanged between Red Hat and the Digital MOD Team. Such data as Must-Gathers, logs, etc which need redaction.   The aim of the initiative is to explore what can be done better to make the workstream smoother. 
+- We need to have a TAM Day whereby we can address any findings and implementations of that workstream initiative.  We can also explore any  other technical areas of interests around a whiteboard.  Potential dates include:  1st Dec, 2nd Dec, (Tue, Wed) 15th 16th 17th Dec (Tue, Wed, Thur) or 22nd 23rd Dec (Tue, Wed)
 
 #### TAM availability 
-- David and Andy will be available throughout October and November 2026
+- David will be available through most of November and all of December 2026 until December 24th - where on the 24th December, David will be spending time with an organisation of red hats and white beards ...
+- Andy will be available throughout all of November.  In December Andy will be on leave for the week beginning 7th December, then available again from the 14th December to the 24th. 
 
 #### What's new in Red Hat Openshift
 -  Red Hat Openshift 4.22
