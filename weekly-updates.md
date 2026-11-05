@@ -3,7 +3,7 @@
 
 #### TAM availability 
 - David Williams is the new official TAM for Met Eireann
-- David and will be available throughout most of November and December 2026
+- David will be available throughout most of November and December 2026
 
 #### What's new in Red Hat Openshift
 -  Red Hat Openshift 4.22
