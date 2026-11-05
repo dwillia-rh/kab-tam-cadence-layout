@@ -1,9 +1,9 @@
 #### Proactive Notifications
-- TAMs are currently assisting with the exploration of tools and techniques for cluster assessment
-- TAMs have been assisting with addressing the client's Security Team list of vulnerabilities detected within images for 4.20.22 by identifying mitigation steps and false positives. 
+- TAMs have been investigating any need to back port PHP CVEs to RHEL 7
 
 #### TAM availability 
-- David Williams is the TAM for Mastercard and will be available throughout October and most of November 2026
+- David Williams is the new official TAM for Met Eireann
+- David and will be available throughout most of November and December 2026
 
 #### What's new in Red Hat Openshift
 -  Red Hat Openshift 4.22
