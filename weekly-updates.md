@@ -1,10 +1,12 @@
 #### Proactive Notifications
-- An initiative is being undertaken to look at the workstream where data is exchanged between Red Hat and the Digital MOD Team. Such data as Must-Gathers, logs, etc which need redaction.   The aim of the initiative is to explore what can be done better to make the workstream smoother. 
-- HEADS UP We are planning to a TAM Day whereby we can:
-- - Recap the talk about the OCP Roadmap this time allowing for questions to be addressed in flight
-- - Address any findings and implementations of that workstream initiative.
-- - Explore any  other technical areas of interests around a whiteboard.  Potential dates include:  1st Dec, 2nd Dec, (Tue, Wed) 15th 16th 17th Dec (Tue, Wed, Thur) or 22nd 23rd Dec (Tue, Wed)
-- HEADS UP
+- An initiative is being undertaken to look at the workstream where data is exchanged between Red Hat and the Digital MOD Team. Such data as Must-Gathers, logs, etc which need redaction.   The aim of the initiative is to explore what can be done better to make the workstream smoother.
+- On Tuesday 10th November there was an Engineering Day held in London.  David Williams and Mark Austin presented roadmaps for OCP and OpenShift AI respectively.  Unfortunately time slot was tight so there were no opportunities for questions on the OCP Roadmap.  THe presentation can be shared - please send your request to David Williams (dwillia@redhat.com)
+- HEADS UP We are planning to a TAM Day.  The proposed venue is Newcastle.  The proposed dates are any one of: 1st Dec, 2nd Dec, (Tue, Wed) 15th 16th 17th Dec (Tue, Wed, Thur) or 22nd 23rd Dec (Tue, Wed) The proposed agenda for the day includes:
+  - Recap the talk about the OCP Roadmap this time allowing for questions to be addressed in flight
+  - Recap and revisit best practices for managing Technical Support cases
+  - Expand the latter point by addressing any findings and implementations of that workstream initiative mentioned earlier.
+  - Explore any  other technical areas of interests.
+- HEADS UP The ACM Operator version 2.15 will exit full support and be placed in maintenance support from 8th January 2027
 
 #### TAM availability 
 - David will be available through most of November and all of December 2026 until December 24th 
