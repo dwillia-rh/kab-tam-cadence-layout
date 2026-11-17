@@ -1,10 +1,9 @@
 ### OpenShift latest stable channel errata report
 Generated: 2026-11-03 10:17 UTC
-- **4.22 (4.22.20)** via `stable-4.22` — RHSA: [RHSA-2026:89198](https://access.redhat.com/errata/RHSA-2026:89198)
-- **4.21 (4.21.40)** via `stable-4.21` — RHSA: [RHSA-2026:89626](https://access.redhat.com/errata/RHSA-2026:89626)
-- **4.20 (4.20.44)** via `stable-4.20` — RHSA: [RHSA-2026:89341](https://access.redhat.com/errata/RHSA-2026:89341)
-- **4.19 (4.19.53)** via `stable-4.19` — RHSA: [RHSA-2026:89655](https://access.redhat.com/errata/RHSA-2026:89655)
-- **4.18 (4.18.56)** via `stable-4.18` — RHSA: [RHSA-2026:70617](https://access.redhat.com/errata/RHSA-2026:70617)
+- **4.22 (4.22.22)** — RHSA: [RHSA-2026:95347](https://access.redhat.com/errata/RHSA-2026:95347)
+- **4.21 (4.21.42)** — RHSA: [RHSA-2026:95409](https://access.redhat.com/errata/RHSA-2026:95409)
+- **4.20 (4.20.46)** — RHSA: [RHSA-2026:95380](https://access.redhat.com/errata/RHSA-2026:95380)
+- **4.19 (4.19.55)** — RHSA: [RHSA-2026:95524](https://access.redhat.com/errata/RHSA-2026:95524)
 
 ### What's new with Red Hat OpenShift Service on AWS
 
