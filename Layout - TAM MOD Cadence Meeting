@@ -32,6 +32,8 @@
 [include:https://kab-static.apps.int.spoke.prod.us-east-1.aws.paas.redhat.com/lifecycle/lifecycle-Red_Hat_OpenShift_Container_Platform.md]
 [snippet:mod-ocp-z-stream-releases]
 [snippet:mod-ocp-acm-lifecycle]
+[snippet:mod-ocp-acs-lifecycle]
+[snippet:mod-ocp-odf-lifecycle]
 [include:https://kab-static.apps.int.spoke.prod.us-east-1.aws.paas.redhat.com/lifecycle/lifecycle-Red_Hat_OpenShift_Data_Foundation.md]
 [include:https://kab-static.apps.int.spoke.prod.us-east-1.aws.paas.redhat.com/lifecycle/lifecycle-Red_Hat_Quay.md]
 [t3]
