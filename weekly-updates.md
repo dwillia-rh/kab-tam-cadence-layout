@@ -1,9 +1,9 @@
 #### Proactive Notifications
-- TAMs have been investigating any need to back port PHP CVEs to RHEL 7
+- TAM David initiated interaction with the Red Hat courses expert for Public Sectors.
 
 #### TAM availability 
-- David Williams is the new official TAM for Met Eireann
-- David will be available throughout most of November and December 2026
+- David Williams is the official TAM for Met Eireann
+- David will be available until 23rd December 2026
 
 #### What's new in Red Hat Openshift
 -  Red Hat Openshift 4.22
